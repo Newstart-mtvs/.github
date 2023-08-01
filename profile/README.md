@@ -12,7 +12,8 @@
   <tr>
     <td align="center"><a href="https://github.com/horry10"><img src="https://avatars.githubusercontent.com/u/69677984?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/happy-baechuchu"><img src="https://avatars.githubusercontent.com/u/134986794?v=4" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/raxchaz"><img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxOTA1MTZfMTk5%2FMDAxNTU3OTM3Nzk5OTc2.RYHaYoOO6PJpy1jJB3aphq0xufqtFmXAKcbUrxRIoyIg.hRUVOlJAPZf8GvyovPIkDmhC6ZqhIF5pKkibnDTCBKYg.JPEG%2FIAGU9C6_iwxod_Z2Q7dYWNGdnGx4.jpg&type=sc960_832" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="![KakaoTalk_20230801_180815954](https://github.com/Newstart-mtvs/.github/assets/134986794/ac54c243-4d96-4cce-bc9d-9f4bda93da13)
+" width="150px;" alt="">
 
 
 

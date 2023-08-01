@@ -12,8 +12,8 @@
   <tr>
     <td align="center"><a href="https://github.com/horry10"><img src="https://avatars.githubusercontent.com/u/69677984?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/happy-baechuchu"><img src="https://avatars.githubusercontent.com/u/134986794?v=4" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/gaonchu"><img src="![KakaoTalk_20230801_180815954](https://github.com/Newstart-mtvs/.github/assets/134986794/ac54c243-4d96-4cce-bc9d-9f4bda93da13)
-" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/gaonchu"><img src="https://github.com/Newstart-mtvs/.github/assets/134986794/27b2b845-8c80-4594-aa95-8f0059b2e6e4" width=150px; alt="">
+
 
 
 

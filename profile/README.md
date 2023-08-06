@@ -21,7 +21,7 @@
   <tr>
      <td align="center"><a href="https://github.com/horry10"><b>@horry10</b></td>
     <td align="center"><a href="https://github.com/happy-baechuchu"><b>@happy-baechuchu</b></td>
-    <td align="center"><a href="https://github.com/raxchaz"><b>@gaonchu</b></td>
+    <td align="center"><a href="https://github.com/gaonchu"><b>@gaonchu</b></td>
 
   </tr>
 

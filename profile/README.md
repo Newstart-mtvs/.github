@@ -28,7 +28,7 @@
    <tr>
     <td align="center"><strong>백엔드</strong></td>
     <td align="center"><strong>프론트</strong></td>
-    <td align="center"><strong>프론트</strong></td>
+    <td align="center"><strong>기획</strong></td>
 
   </tr>
 </table>

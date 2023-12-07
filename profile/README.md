@@ -5,37 +5,33 @@
     <td align="center"><strong>김대철</strong></td>
     <td align="center"><strong>박소연</strong></td>
     <td align="center"><strong>추민경</strong></td>
-
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/horry10"><img src="https://avatars.githubusercontent.com/u/69677984?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/happy-baechuchu"><img src="https://avatars.githubusercontent.com/u/134986794?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/gaonchu"><img src="https://github.com/Newstart-mtvs/.github/assets/134986794/27b2b845-8c80-4594-aa95-8f0059b2e6e4" width=150px; alt="">
-
-
-
-
-
   </tr>
+        
   <tr>
      <td align="center"><a href="https://github.com/horry10"><b>@horry10</b></td>
     <td align="center"><a href="https://github.com/happy-baechuchu"><b>@happy-baechuchu</b></td>
     <td align="center"><a href="https://github.com/gaonchu"><b>@gaonchu</b></td>
-
   </tr>
 
    <tr>
     <td align="center"><strong>백엔드</strong></td>
     <td align="center"><strong>프론트</strong></td>
     <td align="center"><strong>기획</strong></td>
-
   </tr>
 </table>
+
 <br>
 
+<img src="https://im2.ezgif.com/tmp/ezgif-2-f0be0e13fd.gif" width="1024px;" alt="프론트_백연결">
 
-<img src="![GoBooKid_resize](https://github.com/Newstart-mtvs/.github/assets/134986794/2d0f0a5c-8261-4ea8-98fe-be68e2e512b9)">
+
+
 
 
 

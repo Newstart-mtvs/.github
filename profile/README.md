@@ -35,7 +35,7 @@
 <br>
 
 
+<img src="![GoBooKid_resize](https://github.com/Newstart-mtvs/.github/assets/134986794/2d0f0a5c-8261-4ea8-98fe-be68e2e512b9)">
 
-https://github.com/Newstart-mtvs/.github/assets/134986794/8a012b2f-f327-445f-b0b9-48719645da79
 
 

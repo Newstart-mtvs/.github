@@ -28,7 +28,6 @@
 
 <br>
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-f0be0e13fd.gif" width="1024px;" alt="프론트_백연결">
 
 ![GoBooKid_resize](https://github.com/Newstart-mtvs/.github/assets/134986794/cca8e62f-d9fa-4661-853b-264048df851c)
 
